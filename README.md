@@ -26,15 +26,15 @@ This project is a **Deep Learning-based diagnostic system** that detects whether
 - NumPy, Pandas, OpenCV, Matplotlib
 
 ## Results
-Accuracy: 98%
-Loss curves and accuracy plots available in the notebook.
+- Accuracy: 98%
+- Loss curves and accuracy plots available in the notebook.
 
 ## Future Improvements
-Deploy as a link
-Add explainability using Grad-CAM.
+- Deploy as a link
+- Add explainability using Grad-CAM.
 
 ## Author
-Hariharan R
-Amrith P
+- Hariharan R
+- Amrith P
 
  
