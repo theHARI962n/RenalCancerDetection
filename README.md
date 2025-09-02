@@ -16,7 +16,7 @@ This project is a **Deep Learning-based diagnostic system** that detects whether
   - Optimized preprocessing pipeline
 
 ## Dataset
-- **Source:** [Kaggle Renal CT Scan Dataset](https://www.kaggle.com/)  
+- **Source:** [Kaggle Renal CT Scan Dataset](https://www.kaggle.com/datasets/nazmul0087/ct-kidney-dataset-normal-cyst-tumor-and-stone)  
 - Contains **10,000 images** (Normal & Tumor cases).
 
 ## Tools & Libraries
